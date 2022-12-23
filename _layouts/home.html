@@ -16,7 +16,6 @@ layout: default
     {% assign posts = site.posts %}
   {% endif %}
 
-
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
@@ -26,13 +25,34 @@ layout: default
       {%- for post in posts -%}
       <li>
         <span class="post-meta">{{ post.date | date: date_format }}</span>
+		{%- if post.categories.size > 0 -%}
+		<span class="post-meta">
+        • {% for category in post.categories %}
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name">{{ category }}</span></span>
+            {%- if forloop.last == false %}, {% endif -%}
+        {% endfor %}
+		</span>
+		{%- endif -%}
+		
+		{%- if post.author -%}
+		<span class="post-meta">
+        • {% for author in post.author %}
+          <span itemprop="author" itemscope itemtype="http://schema.org/Person">
+            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+            {%- if forloop.last == false %}, {% endif -%}
+        {% endfor %}
+		</span>
+		{%- endif -%}
+		
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
             {{ post.title | escape }}
           </a>
         </h3>
         {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
+			{{ post.content | strip_html | truncatewords: 50 }}
+          
         {%- endif -%}
       </li>
       {%- endfor -%}
