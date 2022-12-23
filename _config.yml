@@ -1,9 +1,9 @@
-title: "__efon__"
-author: "Onur Arıkan"
-    name: Onur Arıkan
-    email: onur93arikan@gmail.com
+title: __efon__
+author:
+  name: Onur Arıkan
+  email: onur93arikan@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
- "Onur Arıkan's Github.io page" 
+  Onur Arıkan's Github.io page
 show_excerpts: false # set to true to show excerpts on the homepage
 
 minima:
