@@ -1,0 +1,31 @@
+To Whom It May Concern:
+
+I would like to apply for a part-time work position in your company. My name is Onur Arıkan, I am a 4th-year, soon to graduate, Computer Engineering student at Middle East Technical University (METU) in Ankara, Turkey.
+
+During my studies in the spring semester, my workload in classes is approximately 8 hours per week, therefore I’m open to part-time work options - 1/2 or 3/4 working time.
+
+During the work, I'm interested in working with Python, Django, FastAPI, Numpy, Pandas or in Java, JavaScript, SQL, and C/C++ as well as developing new programming skills.
+
+In 2023, I worked on-site in Ankara, Turkey as a backend developer. I worked in a company that creates public transportation optimizations. During my time in this company, I wrote algorithms that track the mobility of public transportation vehicles that analyze their origin and destination frequency. Additionally, I gained an experience in FastAPI by using their backend systems.
+
+On top of that, in 2023 I also had a remote job as a Python Instructor. My students began by learning the fundamentals of programming and graduate from the course by obtaining the necessary skills to develop their games. At the end of the course, each student was able to present a 2D game that was made in Pygame.
+
+During my 3 months long summer internship in 2022 in Poland, I worked with Python and wrote unit tests for Django. I used test-driven development while implementing these tasks. During this internship, I gained experience in working with an international
+team.
+
+During my 3 months long summer internship in 2021 in Turkey, I worked with Javascript, Node.JS, Gherkin, and Cucumber.JS and wrote end-to-end tests for Export Compliance Screening System in Gherkin language, using Cucumber.JS API functions in
+Node.JS.
+
+I have extended knowledge of the Python programming language. I have a solid base in data structures, algorithms, and object-oriented paradigms. Also, I have intermediate knowledge of C/C++. I am enthusiastic about problem-solving to the point of being done in a satisfying and stable way. Other than what I learn and apply at my university, I’m passionate about using Python in my personal projects with the purpose of extending my knowledge and having fun while learning through the things I love.
+
+For instance, I organize a Fantasy league that spans the whole Formula 1 season. The players can sign up and purchase drivers with their initial budget. During the course of the season, players manage their budget and trade drivers in each race in order to win. The league is attended by approximately 100 players and developed in Django. I also regularly analyze historical motorsports data through the Pandas library and draw meaningful conclusions. I have integrated this historical motorsports data into the database I use in my Django website.
+
+For my senior project, with my team, I am currently developing an online multiplayer web application for a popular board game that is called Splendor. We are integrating an intelligent design system in a partially observed environment, that will use AI and machine learning algorithms.
+
+Furthermore, I develop games through the PyGame library in order to apply my knowledge about object-oriented paradigms which helps me in skills such as managing and optimizing the growing scale of projects.
+
+Given this information, I would like to apply for a job in your company. For further information, I appended my CV. I also included a link to my projects and repositories in Github (https://github.com/opethef10).
+
+Best regards,
+Onur Arıkan
+
