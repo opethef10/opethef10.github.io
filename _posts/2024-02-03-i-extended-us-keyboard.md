@@ -1,5 +1,5 @@
 ---
-layout: posts
+author: Onur Arıkan
 date: 2024-02-03
 title: "I Extended the US Keyboard"
 categories: keyboard

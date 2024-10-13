@@ -11,3 +11,6 @@ layout: home
 - My name is Onur Arıkan and I plan to share my posts in this website.  
 - You can check my [Github Profile](https://github.com/opethef10)
 - You can check my [resume](/resume/index.html) as well.
+
+# Latest Posts
+

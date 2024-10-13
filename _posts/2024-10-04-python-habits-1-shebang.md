@@ -1,5 +1,5 @@
 ---
-layout: posts
+author: Onur Arıkan
 title: "My Python Coding Habits #1: Shebang"
 date: 2024-10-04
 categories: 

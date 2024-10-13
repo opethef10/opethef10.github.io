@@ -1,5 +1,5 @@
 ---
-layout: posts
+author: Onur Arıkan
 title: "Why I Chose GitHub Pages for My Blog"
 date: 2024-10-09
 categories: blog markdown
