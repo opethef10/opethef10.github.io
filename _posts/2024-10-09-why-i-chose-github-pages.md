@@ -2,7 +2,7 @@
 author: Onur Arıkan
 title: "Why I Chose GitHub Pages for My Blog"
 date: 2024-10-09
-categories: blog markdown
+tags: blog markdown
 ---
 
 When I decided to start writing a blog, I wanted a platform that felt natural for a programmer to use. That’s why I chose **GitHub Pages**. As a developer, I already use GitHub every day to manage and share code, so hosting my blog there makes perfect sense.

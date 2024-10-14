@@ -52,5 +52,16 @@ defaults:
       type: posts
     values:
       layout: post
-      tags: Other
+      tags: other
+  - scope:
+      path: ''
+      type: post_tags
+    values:
+      permalink: "/tags/:name/"
+      layout: tag
+
+collections:
+  post_tags:
+    permalink: /tags/:name/
+    output: true
 

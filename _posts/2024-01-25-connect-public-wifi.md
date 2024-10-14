@@ -2,7 +2,7 @@
 author: Onur Arıkan
 date: 2024-01-25
 title: How to Get the Public Wi-Fi Login Pages Faster
-categories: 
+tags: 
   - internet
   - network
 ---

@@ -2,7 +2,7 @@
 author: Onur Arıkan
 date: 2024-02-03
 title: "I Extended the US Keyboard"
-categories: keyboard
+tags: keyboard
 ---
 
 In Turkey, we use Q keyboard layout (mostly, let's say, almost. Maybe I will write one day about [Turkish F-keyboard layout](https://en.wikibooks.org/wiki/Turkish/Computing_in_Turkish) too.) but with some extensions. In Turkish we have letters `Ç, Ğ, Ş, Ö, Ü, İ/ı` and in some letters, the usage of the derivated letters excel the ones that are derived from. For example, ç is used more than c and so on. In Poland, they use **AltGr** (abbreviation for *Alternate Graphic*) to type letters `ć, ń, ó, ś, ź, ż, ł, ą, ę` When I checked and compared to Turkish, Polish letters with diacritics are less used than the ones they are derived from.

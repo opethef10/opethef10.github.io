@@ -44,6 +44,13 @@ layout: default
         {% endfor %}
 		</span>
 		{%- endif -%}
+        {%- if post.tags -%}
+          <span class="post-meta tags">
+            {% for tag in post.tags %}            
+              <a href="{% include tag_url tag=tag %}">#{{ tag }}</a>
+            {% endfor %}
+            </span>
+          {%- endif -%}
 		
         <h3>
           <a class="post-link" href="{{ post.url | relative_url }}">
