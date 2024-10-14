@@ -35,9 +35,15 @@ layout: default
         {% endfor %}
       {%- endif -%}</p>
   </header>
+  <div class="share-links no-print">
+    {% include sharelinks.html %}
+  </div>
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
+	<div class="no-print">
+      {% include navlinks.html %}
+    </div>
   </div>
 
   {%- if site.disqus.shortname -%}
