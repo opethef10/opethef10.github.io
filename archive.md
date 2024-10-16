@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Blog Archive
+permalink: /archive/
 ---
 
 {%- assign allposts = site.posts | sort_natural: "date" | reverse %}
