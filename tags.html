@@ -1,0 +1,19 @@
+---
+layout: default
+header_color: '#33cc66'
+title: Tags
+permalink: /tags/
+---
+<article class="post">
+    <div class="post-content">        
+        <h3 class="post-title">{{ page.title | escape }}</h3>
+        <ul class="tag-list">
+            {% for tag in site.post_tags %}
+            <li>
+                <a href="{{tag.url}}">{{tag.title}}</a>        
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
+</article>
+
