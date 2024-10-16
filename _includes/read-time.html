@@ -1,0 +1,9 @@
+{% capture output %}
+  {% assign words = include.content | strip_html | number_of_words %}
+  <span class="read-time">
+    {{ words | divided_by: 200 | plus: 1 }} min read
+  </span>
+{% endcapture %}
+
+{{ output | strip_newlines | strip }}
+

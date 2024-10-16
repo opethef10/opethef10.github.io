@@ -39,11 +39,15 @@ layout: default
 		<span class="post-meta">
         • {% for author in post.author %}
           <span itemprop="author" itemscope itemtype="http://schema.org/Person">
-            <span class="p-author h-card" itemprop="name">{{ author }}</span></span>
+            <span class="p-author h-card" itemprop="name">{{ author }}</span> </span>
             {%- if forloop.last == false %}, {% endif -%}
         {% endfor %}
 		</span>
 		{%- endif -%}
+          <span class="post-meta">
+ • {% include read-time.html content = page.content %}
+		</span>
+
         {%- if post.tags -%}
           <span class="post-meta tags">
             {% for tag in post.tags %}            
