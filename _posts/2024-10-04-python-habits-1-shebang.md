@@ -4,6 +4,7 @@ title: "My Python Coding Habits #1: Shebang"
 date: 2024-10-04
 tags: 
 - python
+- python-habits
 ---
 
 I’ve always been drawn to Python for many of the reasons that most developers love it: it's easy to read, versatile, and widely used for everything from web development to data science. Python’s simplicity and clarity allow me to focus more on solving problems rather than fighting with syntax. The active community, extensive libraries, and strong cross-platform support make Python a pleasure to work with, no matter the project.
