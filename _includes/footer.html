@@ -3,35 +3,62 @@
 
   <div class="wrapper">
 
-    <div class="footer-col-wrapper">
-      <div class="footer-col">
-        <p class="feed-subscribe">
-          <a href="{{ site.feed.path | default: 'feed.xml' | absolute_url }}">
-            <svg class="svg-icon orange">
-              <use xlink:href="{{ 'assets/minima-social-icons.svg#rss' | relative_url }}"></use>
-            </svg><span>Subscribe</span>
-          </a>
-        </p>
-      {%- if site.author %}
+<div class="footer-col-wrapper">
+            <div class="footer-col footer-col-1">
+                <a href="{{ "/" | relative_url }}">
+                    <img width="160" src="{{ "/resume/profil.jpg" | relative_url }}"
+                        alt="Onur Arıkan" />
+                </a>
+            </div>
+
+			<div class="footer-col">
+			{%- if site.author %}
         <ul class="contact-list">
           {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
+            <h2 class="footer-heading">{{ site.author.name | escape }}</h2>
           {% endif -%}
-          {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {%- endif %}
         </ul>
       {%- endif %}
+			<ul class="contact-list"><li>
+<a href="mailto:{{ site.author.email }}" target="_blank" title="{{ site.author.email }}">
+<svg class="svg-icon">
+<use xlink:href="/assets/minima-social-icons.svg#email"></use>
+</svg>
+<span class="username">{{ site.author.email }}</span>
+</a>
+</li><li>
+<a href="https://github.com/opethef10/" target="_blank" title="Source Code">
+<svg class="svg-icon">
+<use xlink:href="/assets/minima-social-icons.svg#github"></use>
+</svg>
+<span class="username">Github</span>
+</a>
+</li><li>
+<a href="https://github.com/opethef10/opethef10.github.io" target="_blank" title="Source Code">
+<svg class="svg-icon">
+<use xlink:href="/assets/minima-social-icons.svg#github"></use>
+</svg>
+<span class="username">This Blog's Source Code</span>
+</a>
+</li><li>
+<a href="https://linkedin.com/in/onur93arikan" target="_blank" title="Linkedin">
+<svg class="svg-icon">
+<use xlink:href="/assets/minima-social-icons.svg#linkedin"></use>
+</svg>
+<span class="username">Linkedin</span>
+</a>
+</li><li>
+<a href="/feed.xml" target="_blank" title="RSS Feed">
+<svg class="svg-icon">
+<use xlink:href="/assets/minima-social-icons.svg#rss"></use>
+</svg>
+<span class="username">RSS Feed</span>
+</a>
+</li></ul>
       </div>
+
       <div class="footer-col">
         <p>{{ site.description | escape }}</p>
       </div>
     </div>
-
-    <div class="social-links">
-      {%- include social.html -%}
-    </div>
-
-  </div>
-
 </footer>
