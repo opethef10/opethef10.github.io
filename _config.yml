@@ -31,6 +31,8 @@ plugins:
 
 rss: rss
 
+google_analytics: G-ZLFYTWQ4QR
+
 # Disqus Comments
 disqus:
     # Leave shortname blank to disable comments site-wide.
