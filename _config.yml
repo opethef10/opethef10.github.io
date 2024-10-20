@@ -27,7 +27,9 @@ theme: minima
 plugins:
  - jekyll-feed
  - jekyll-seo-tag
-# - jekyll-sitemap
+ - jekyll-sitemap
+
+permalink: /:title/
 
 rss: rss
 
