@@ -1,30 +1,25 @@
 To Whom It May Concern,
+I am writing to express my strong interest in applying for a full-time position at your company. I reside in Gdynia, Poland, hold a valid work permit, and already have professional experience within the country, having previously completed an internship here. With 2 years of experience in Software Development and IT, primarily using Python and C#, I am eager to contribute my skills to your team.
 
-I would like to apply for a full-time work position in your company. I recently graduated with a degree in Computer Engineering from Middle East Technical University (METU) in Ankara, Turkey.
+My connection to Poland is personal and long-standing. Before taking the step to settle permanently and work here, I have been coming to Poland every summer for seven years, living with my girlfriend, spending time with her family and my Polish friends, and immersing myself in the culture and language, which I have come to love. I am constantly improving my Polish, which is currently at a B1 level, with the ultimate goal of achieving full fluency.
 
-I am particularly interested in working with Python, Django, FastAPI, Numpy, Pandas, or in Java, JavaScript, SQL, and C/C++, and I am eager to continue developing new programming skills.
+I graduated from Middle East Technical University (METU), the top-ranking institution in Turkey, where I pursued my studies in English and obtained the degree of Bachelor of Science in Computer Engineering.
 
-Since May 2024, I have been working full-time as a Software Developer in Ankara, Turkey, where I develop software for Spatial Load Forecasting (SLF) using C# and WinForms. My role involves implementing verification algorithms, designing imputation strategies for handling missing data, and developing software in Python to analyze yearly benchmark data of pioneer electricity distribution companies and generate key performance indicator (KPI) reports.
+Since May 2024 till September 2024, I had been working as a Software Developer in Ankara, Turkey, single-handedly developing software for Spatial Load Forecasting (SLF) using C# and WinForms. My work included implementing verification algorithms, creating data imputation strategies, and analyzing benchmark data in Python to produce key performance indicator (KPI) reports.
 
-In 2023, I worked on-site in Ankara, Turkey, as a backend developer in a company that creates public transportation optimizations. During my time there, I wrote algorithms that track the mobility of public transportation vehicles and analyze their origin and destination frequency. Additionally, I gained experience in FastAPI by working with their backend systems.
+Prior to that, in 2023, I worked for 9 months as a backend developer for a company specializing in public transportation optimization. There, I contributed to mobility tracking algorithms and gained hands-on experience with Python libraries such as GeoJSON, Pandas, FastAPI and using PostgreSQL database with other backend technologies.
 
-That same year, I also held a remote job as a Python Instructor, where I taught students the fundamentals of programming. By the end of the course, each student was able to develop and present a 2D game using Pygame.
+Earlier in my career, for 10 months, I worked as a Python instructor, teaching students programming fundamentals and guiding them to develop 2D games. I also completed internships in Poland and Turkey, for the total of 6 months, where I worked on unit testing for Python and Django and end-to-end testing using JavaScript frameworks, respectively.
 
-During my 3-month-long summer internship in 2022 in Elbląg, Poland, I worked with Python and wrote unit tests for Django using test-driven development. This experience allowed me to work effectively with an international team.
+Beyond my professional roles, I have undertaken projects that demonstrate my skills and interests. I created a Formula 1 Fantasy League platform using Python's Django framework, which is played by approximately 100 players managing their teams and managing their budgets throughout the season. Additionally, I developed an online multiplayer web application for the board game Splendor using Django Channels, integrating artificial intelligence algorithms to enhance gameplay in a partially observed environment with asynchronous communication.
 
-In 2021, I completed a summer internship in Ankara, Turkey, where I worked with JavaScript, Node.js, Gherkin, and Cucumber.js, writing end-to-end tests for an Export Compliance Screening System.
+I am particularly skilled in Python, Django, FastAPI, and related frameworks, as well as JavaScript, Java, and C, C++, C#.  My focus is on creating robust, scalable solutions and leveraging advanced programming techniques to solve complex problems efficiently. I have experience managing projects independently and as part of a team, both remotely and on-site.
 
-I have extensive knowledge of the Python programming language, along with a solid foundation in data structures, algorithms, and object-oriented paradigms. Additionally, I have intermediate knowledge of C/C++. I am passionate about problem-solving and committed to delivering solutions that are both stable and satisfying.
+I am excited about the opportunity to bring my skills and passion for software development to your organization. I am confident that my experience and enthusiasm align with your company’s goals, and I am eager to contribute to your team’s success. Please find my CV attached for further details, and feel free to explore my projects on GitHub:
+https://github.com/opethef10
 
-Outside of my professional experience, I organize a Formula 1 Fantasy league that spans the whole Formula 1 season. The players can sign up and purchase drivers with their initial budget. During the course of the season, players manage their budget and trade drivers in each race in order to win. The league is attended by approximately 100 players and developed in Django. I also regularly analyze historical motorsports data through the Pandas library and draw meaningful conclusions. I have integrated this historical motorsports data into the database I use in my Django website.
-
-For my senior project in my university, I developed an online multiplayer web application for the popular board game Splendor. We integrated an intelligent design system in a partially observed environment, using AI algorithms. The web application allows asynchronous communication between players in real time, providing a robust authentication system.
-
-Furthermore, I develop games through the PyGame library in order to apply my knowledge about object-oriented paradigms, which helps me in skills such as managing and optimizing the growing scale of projects.
-
-I am deeply interested in relocating to Poland, where my girlfriend lives. I have lived in Gdynia for two summers, have beginner-level proficiency in Polish, and already hold a work permit. My previous internship experience in Poland has solidified my desire to work there full-time.
-
-Given this background, I am confident in my ability to contribute to your team and would appreciate the opportunity to discuss how I can be an asset to your company. For further information, I have attached my CV and included a link to my projects and repositories on GitHub (https://github.com/opethef10).
+Thank you for taking the time to review my application. I am eager to discuss how my skills and experience can contribute
+to the continued success of your organization.
 
 Best regards,
 Onur Arıkan
