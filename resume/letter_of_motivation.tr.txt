@@ -1,0 +1,18 @@
+To Whom It May Concern,
+
+I am writing to express my strong interest in applying for a full-time position at your company. I recently graduated from Middle East Technical University (METU), the top-ranking institution in Turkey, where I pursued my studies in English and obtained the degree of Bachelor of Science in Computer Engineering. With 2 years of experience in Software Development and IT, primarily using Python and C#, I am eager to contribute my skills to your team.
+
+Since May 2024 till September 2024, I had been working as a Software Developer in Ankara, Turkey, single-handedly developing software for Spatial Load Forecasting (SLF) using C# and WinForms. My work included implementing verification algorithms, creating data imputation strategies, and analyzing benchmark data in Python to produce key performance indicator (KPI) reports.
+
+Prior to that, in 2023, I worked for 9 months as a backend developer for a company specializing in public transportation optimization. There, I contributed to mobility tracking algorithms and gained hands-on experience with Python libraries such as GeoJSON, Pandas, FastAPI and using PostgreSQL database with other backend technologies.
+
+Earlier in my career, for 10 months, I worked as a Python instructor, teaching students programming fundamentals and guiding them to develop 2D games. I also completed internships in Poland and Turkey, for the total of 6 months, where I worked on unit testing for Python and Django and end-to-end testing using JavaScript frameworks, respectively.
+
+Beyond my professional roles, I have undertaken projects that demonstrate my skills and interests. I created a Formula 1 Fantasy League platform using Python's Django framework, which is played by approximately 100 players managing their teams and managing their budgets throughout the season. Additionally, I developed an online multiplayer web application for the board game Splendor using Django Channels, integrating artificial intelligence algorithms to enhance gameplay in a partially observed environment with asynchronous communication.
+
+I am particularly skilled in Python, Django, FastAPI, and related frameworks, as well as JavaScript, Java, and C, C++, C#. My focus is on creating robust, scalable solutions and leveraging advanced programming techniques to solve complex problems efficiently. I have experience managing projects independently and as part of a team, both remotely and on-site. I am excited about the opportunity to bring my skills and passion for software development to your team. I am confident that my experience and enthusiasm align with your company’s goals. Please find my CV attached for further details, and feel free to explore my projects on GitHub: https://github.com/opethef10
+
+Thank you for considering my application. I look forward to the possibility of contributing to your team's success. Best regards,
+Onur Arıkan
+onur93arikan@gmail.com
++90 553 255 66 87
