@@ -3,7 +3,7 @@ author:
   name: Onur Arıkan
   email: onur93arikan@gmail.com
 description: > # this means to ignore newlines until "show_excerpts:" # This will show up in places like twitter, linkedin, etc, if you share your sites url as a post.
-  Onur Arıkan's Github.io page. In this web page, I share my personal journey in Computer Science as well as the handy tips that make my life easier while using the web, command line applications or generally everything that I can explore in my computer. 
+  In this web page, I share my personal journey in Computer Science as well as the handy tips that make my life easier while using the web, command line applications or generally everything that I can explore in my computer.
 show_excerpts: true # set to true to show excerpts on the homepage
 url: "https://opethef10.github.io"
 
