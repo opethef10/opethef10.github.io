@@ -9,9 +9,9 @@ title: CV Links
 - [Mail](mailto:onur93arikan@gmail.com)
 
 ## References
-- [Euro-Projekt Grzegorz Latecki](https://opethef10.github.io/resume/europrojekt_reference.pdf)
-- [MRC Türkiye](https://opethef10.github.io/resume/mrc_letter_of_recommendation.pdf)
-- [Parabol](https://opethef10.github.io/resume/parabol_letter_of_recommendation.pdf)
+- [Euro-Projekt Grzegorz Latecki](/resume/europrojekt_reference.pdf)
+- [MRC Türkiye](/resume/mrc_letter_of_recommendation.pdf)
+- [Parabol](/resume/parabol_letter_of_recommendation.pdf)
 
 ## Projects
 - [Formula 1 Fantasy League](https://formula1turkiye.pythonanywhere.com)

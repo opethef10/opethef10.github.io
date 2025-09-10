@@ -17,7 +17,7 @@ permalink: /about/
 
 ---
 ## CV
-- 🔗 You can reach my CV **[here](https://opethef10.github.io/resume/)**
+- 🔗 You can reach my CV **[here](/resume/)**
 
 ---
 ## My Projects
