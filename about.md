@@ -22,13 +22,13 @@ permalink: /about/
 ---
 ## My Projects
 - **[Formula 1 Fantasy League (2017-)](https://tinyurl.com/formula1turkiye)**: An online guessing game for Formula 1 developed in Python's Django framework which requires budget management and strategy skills, first and only one in Turkey, played by hundreds of people.
-- **[Splendid](https://senior.ceng.metu.edu.tr/2024/SPLENDID/)**: Intelligent design system for the board game called Splendor, being developed through Django and Channels, it is a web application that can be played as multiplayer or against AI in real time. It uses a robust and modern authentication system and Elo rating system for ranking and fair matchmaking.
+- **[Splendid](https://splendid.onurarikan.dev)**: Intelligent design system for the board game called Splendor, being developed through Django and Channels, it is a web application that can be played as multiplayer or against AI in real time. It uses a robust and modern authentication system and Elo rating system for ranking and fair matchmaking.
 - **[Flagsweeper](https://github.com/opethef10/Flagsweeper)**: Multiplayer version of Minesweeper game we all know, written in PyGame
-- **[Solar System Plotter](https://solarsystemplotter.pythonanywhere.com)**: A simple Python program which plots the solar system with given parameters, in heliocentric or geocentric view with an option to generate an animated GIF showing movements over time.
-- **[Syllabify-Turkish](https://opethef10.github.io/Syllabify-Turkish/)**: A simple Javascript program which divide a Turkish sentence into its syllables.
+- **[Solar System Plotter](https://solar.onurarikan.dev)**: A simple Python program which plots the solar system with given parameters, in heliocentric or geocentric view with an option to generate an animated GIF showing movements over time.
+- **[Syllabify-Turkish](https://syllabify.onurarikan.dev)**: A simple Javascript program which divide a Turkish sentence into its syllables.
 - **[PySplendor](https://github.com/opethef10/PySplendor)**: Splendor board game in command line interface
 - **[Habit Tracker](https://github.com/opethef10/habit_tracker)**: A simple habit tracker which helps you to track your habits and visualize your progress
 - **[simpleF1simulator](https://github.com/opethef10/simpleF1simulator)**: A simple Formula 1 simulator which outputs race results after given inputs
 - **[formula1_elo](https://github.com/opethef10/formula1_elo)**: Ranking the fastest Formula 1 drivers by using the Elo scoring system.
 - **[ChatCSV](https://github.com/opethef10/chat_csv)**: A simple Python program which converts WhatsApp or Telegram chat history into a CSV file and creates analysis on it
-- **[Elo Rating Calculator](https://github.com/opethef10/elo_calculator)**: This script calculates the Elo rating adjustment for two players based on their current ratings and the outcome of their match.
+- **[Elo Rating Calculator](https://elo.onurarikan.dev)**: This script calculates the Elo rating adjustment for two players based on their current ratings and the outcome of their match.
