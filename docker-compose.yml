@@ -2,13 +2,10 @@ name: ${PROJECT_SLUG}
 
 services:
   jekyll:
-    build:
-       context: .
-    image: ${PROJECT_SLUG}
+    image: bretfisher/jekyll-serve
     container_name: ${PROJECT_SLUG}
     ports:
       - "${PROJECT_PORT_NUMBER}:4000"
     volumes:
-      - .:/usr/src/app
-      - /usr/src/app/vendor
+      - .:/site
     restart: unless-stopped
