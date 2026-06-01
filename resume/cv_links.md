@@ -14,6 +14,6 @@ title: CV Links
 - [Parabol](/resume/parabol_letter_of_recommendation.pdf)
 
 ## Projects
-- [Formula 1 Fantasy League](https://formula1turkiye.pythonanywhere.com)
-- [Formula 1 Elo Project](https://tinyurl.com/formula1turkiye/pages/elo/#en)
+- [VeriF1](https://verif1.pythonanywhere.com)
+- [Formula 1 Elo Project](https://verif1.pythonanywhere.com/pages/elo/#en)
 - [SPLENDID](https://senior.ceng.metu.edu.tr/2024/SPLENDID/)
