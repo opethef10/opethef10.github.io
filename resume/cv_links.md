@@ -13,6 +13,9 @@ title: CV Links
 - [MRC Türkiye](/resume/mrc_letter_of_recommendation.pdf)
 - [Parabol](/resume/parabol_letter_of_recommendation.pdf)
 
+## Certificates
+- [Polish Language Certificate](/resume/certyfikat_polskiego_b1.pdf)
+
 ## Projects
 - [VeriF1](https://verif1.pythonanywhere.com)
 - [Formula 1 Elo Project](https://verif1.pythonanywhere.com/pages/elo/#en)
