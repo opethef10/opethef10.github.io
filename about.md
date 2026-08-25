@@ -17,7 +17,7 @@ permalink: /about/
 
 ---
 ## CV
-- 🔗 You can reach my CV **[here](/resume/)**
+- 🔗 You can reach my CV **[here](https://cv.onurarikan.dev)**
 
 ---
 ## My Projects
