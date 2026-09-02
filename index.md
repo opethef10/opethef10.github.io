@@ -8,5 +8,3 @@
 layout: home
 ---
 
-# Latest Posts
-
